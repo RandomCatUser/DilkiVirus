@@ -43,8 +43,11 @@
 (After closing it gonna still have CMDs opened, thats completely fine!)
 
 ## Planns
-1. Adding Chrome OS Shaport (Via Linux Kernel - Devoloper Options)
-![Chrome OS](https://img.shields.io/badge/Chrome%20OS-compatible-brightgreen)
+1. Adding Chrome OS Shaport (Via Linux Kernel - Developer Options)
+<br>![Chrome OS](https://img.shields.io/badge/Chrome%20OS-compatible-brightgreen)</br>
+
+1. Adding Android Shaport 
+<br>![Chrome OS](https://img.shields.io/badge/Android-compatible-brightgreen)</br>
 
 ## Licened By RandomCatUser 
 <br>For More Visit [Hello](https://randomcatuser.github.io/hello)</br>
