@@ -1,5 +1,6 @@
 # Dilki Virus
 
+
 <img src="./assets/example.png" alt="example" width="300" align="right">
 
 
@@ -34,7 +35,7 @@
 1. Install [Python 3.X](https://www.python.org/) if you haven't already.
 2. Install source code and run `install.bat` ( it's gonna download required libraries! )
 3. After console closed, run `RunMe.bat` ( it's gonna start program!) <br>
-   it should work! if it doesnt send issue into [Issues](https://github.com/noxygalaxy/cyn-FAKE-virus/issues) <br>
+   it should work! if it doesnt send issue into [Issues](https://github.com/) <br>
 (After closing it gonna still have CMDs opened, thats completely fine!)
 
 ## Licened By RandomCatUser 
