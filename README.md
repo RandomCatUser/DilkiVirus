@@ -18,6 +18,9 @@
 ### Pre-Release Version
 [![GitHub pre-release](https://img.shields.io/github/v/release/RandomCatUser/DilkiVirus?include_prereleases&label=Pre-Release&style=for-the-badge&logo=github&color=orange)](https://github.com/RandomCatUser/DilkiVirus/releases)
 
+### Avalable For VM
+[![GitHub pre-release](https://img.shields.io/github/v/release/RandomCatUser/DilkiVirus?include_VM.img&label=VM-Image&style=for-the-badge&logo=github&color=orange)](https://github.com/RandomCatUser/DilkiVirus/releases)
+
 <div align="center">
   <img src="https://img.shields.io/badge/⚠️_WARNING-red?style=flat-square" alt="Warning">
   <p>This application may cause system lag. Use at your own risk!</p>
@@ -48,8 +51,15 @@
 
 2. Adding Android Shaport 
 <br>![Chrome OS](https://img.shields.io/badge/Android-compatible-brightgreen)</br>
+<br>![Chrome OS](https://img.shields.io/badge/HelpNeeded-AnyOneKnowsJavaInAndroidStudio-brightgreen)</br>
 
 3.Make It Danger
+
+4.Make Setup.iss and make it downloadable as a app
+<br>![Se](https://img.shields.io/badge/InnoSetup-NextUpdate-brightgreen)</br>
+
+## Nerd Who Try This
+<br><img src="./assets/chat.png" alt="step1" width="370"></br>
 
 
 ## Licened By RandomCatUser 
