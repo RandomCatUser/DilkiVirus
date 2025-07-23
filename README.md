@@ -46,8 +46,11 @@
 1. Adding Chrome OS Shaport (Via Linux Kernel - Developer Options)
 <br>![Chrome OS](https://img.shields.io/badge/Chrome%20OS-compatible-brightgreen)</br>
 
-1. Adding Android Shaport 
+2. Adding Android Shaport 
 <br>![Chrome OS](https://img.shields.io/badge/Android-compatible-brightgreen)</br>
+
+3.Make It Danger
+
 
 ## Licened By RandomCatUser 
 <br>For More Visit [Hello](https://randomcatuser.github.io/hello)</br>
